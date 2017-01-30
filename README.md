@@ -1,6 +1,6 @@
 Web Page
 ========
-[Salty Sailor on the Web](https://github.com/saltysailor)
+[Salty Sailor on the Web](https://saltysailor.github.io)
 
 Links
 =====
