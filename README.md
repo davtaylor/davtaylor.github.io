@@ -20,3 +20,5 @@ Other
 =====
 
 * [Deniz Boru Hatları](http://www.detek-tr.com) (Undersea cable specialists)
+* [Historical AIS Data](https://www.partmarine.com/historical_ais_data) (Historical AIS Vessel Archive)
+
