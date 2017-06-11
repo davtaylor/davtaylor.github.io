@@ -1,6 +1,6 @@
 Web Page
 ========
-[Salty Sailor on the Web](https://saltysailor.github.io)
+[Web](https://davtaylor.github.io)
 
 Links
 =====
@@ -8,7 +8,8 @@ Links
 A collection of links:
 
 * [Sailing Books Best Sellers](http://www.amazon.com/Best-Sellers-Books-Sailing/zgbs/books/16659)
-* [Boat parts search engine](https://www.partmarine.com)
+* [Boat parts search engine](https://www.partmarine.com/)
+* [Maps collection](http://mapping.life/)
 
 Circumavigators
 ================
