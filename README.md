@@ -9,7 +9,8 @@ A collection of links:
 
 * [Sailing Books Best Sellers](http://www.amazon.com/Best-Sellers-Books-Sailing/zgbs/books/16659)
 * [Boat parts search engine](https://www.partmarine.com/)
-* [Maps collection](http://mapping.life/)
+* [Maps collection](https://www.mapmania.org/)
+* [For history buffs](https://www.histomania.org/)
 
 Circumavigators
 ================
@@ -20,6 +21,5 @@ Circumavigators
 Other
 =====
 
-* [Deniz Boru Hatları](http://www.detek-tr.com) (Undersea cable specialists)
 * [Historical AIS Data](https://www.partmarine.com/historical_ais_data) (Historical AIS Vessel Archive)
 
